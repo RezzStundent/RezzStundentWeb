@@ -1,0 +1,25 @@
+body {
+    font-size: 15pt;
+    
+}
+h1 {
+  font-size: 125px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: greenyellow;
+ border: 90px;
+ background-color: black;
+ background-size: 80px;
+ padding: 80px;
+ margin: 80px;
+ font-style: oblique;
+text-align: center;
+}
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-seri;
+  font-size: 20;
+  background-color: green;
+  padding: 50px;
+  margin: 80px;
+  line-height: 50px;
+}
